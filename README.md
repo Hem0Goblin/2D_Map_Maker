@@ -5,7 +5,7 @@ Generates array according to map and stores it in a text file
 
 First of all python3 and pygame needs to be installed in your computer\
 \
-To use your own pics, change their names with number named png files\
+To use your own tiles, change their names with number named png files\
 and for background, name your background to bg.png\
 Since There is no eraser one empty palette slot is recommended\
 There is 16 palette slot in palatte\
@@ -24,7 +24,7 @@ map file needs to be in the same file with other files\
 click load then close tab
 
 ---
-Use your pics to edit your map\
+Use your tiless to edit your map\
 You can switch on/off backgrund\
 At the end you can save your file as '.txt' and use it for your other
 projects\
